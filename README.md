@@ -6,12 +6,4 @@ This project uses advanced transformer-based architectures, Vision Transformer (
 
 ---
 
-## Installation
-Set up the repository and install required dependencies using Python:
-```python
-# Clone the repository
-!git clone https://github.com/YourUsername/Emotion-Analysis.git
-%cd Emotion-Analysis
 
-# Install dependencies
-!pip install -r requirements.txt
